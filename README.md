@@ -57,7 +57,7 @@ In the `analysis.md`, you'll be tasked with exploring new attention head pattern
 1. **Installation**:
    Clone the repo using `git clone https://github.com/musty-ess/Masked-Language-Model-Using-BERT.git` and run the following to install dependencies: `pip install -r requirements.txt`
 2. **Running the Model**: 
-   To predict a masked word, run `python parser.py [path to text file]`
+   To predict a masked word, run `python mask.py`
 3. **Requirements**:
 - Python 3.12
 - Hugging Face transformers library
